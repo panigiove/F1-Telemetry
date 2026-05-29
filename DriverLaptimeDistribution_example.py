@@ -55,8 +55,3 @@ sns.despine(left=True, bottom=True)
 
 plt.tight_layout()
 plt.show()
-
-# 0423 22744
-
-# Domani pomeriggio, Dottor Curato, 17:40, costo 137 €
-# Sabato mattina alle 8, 
